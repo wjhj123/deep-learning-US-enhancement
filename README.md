@@ -23,6 +23,7 @@ Network.py
 ```
 
 ## Evaluation
+For evaluating the performance of the model
 ```
 metric_value.m
 
