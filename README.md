@@ -20,6 +20,10 @@ For testing the model use the python script
 Test_model.py
 Model.py
 Network.py
+loader.py
+loss.py
+misc.py
+utils.py
 ```
 
 ## Evaluation
